@@ -1,0 +1,21 @@
+# Paper {#sec-paper .unnumbered}
+
+\index{Paper}
+
+### [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+
+Github: https://github.com/RUCAIBox/LLMSurvey
+
+### [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
+
+Github: https://github.com/Mooler0410/LLMsPracticalGuide
+
+### [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+
+
+### [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/pdf/2311.05112.pdf)
+
+Github: https://github.com/AI-in-Health/MedLLMsPracticalGuide
+
+
+https://arxiv.org/pdf/2311.05112.pdf

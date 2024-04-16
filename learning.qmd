@@ -1,0 +1,30 @@
+# Learning Materials {#sec-learn .unnumbered}
+
+\index{Learning Materials}
+
+## [DeepLearning.AI](https://www.deeplearning.ai/)
+
+Founded by renowned AI expert Dr. Andrew Ng, this platform offers a diverse range of courses, tutorials, and practical projects to empower learners of all backgrounds to dive into the exciting world of AI.
+
+The comprehensive curriculum covers from foundational concepts in machine learning to advanced techniques in deep neural networks and reinforcement learning.
+
+#### Relevant LLM Courses:
+
+1.  [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
+2.  [Prompt Engineering with Llama 2](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
+3. [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
+4. [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)
+
+
+## [Hugging Face -- NLP course](https://huggingface.co/learn/nlp-course/chapter1/1)
+
+Hugging Face is a open-source community dedicated to Natural Language Processing (NLP) technologies, fostering innovation through various NLP libraries and frameworks like PyTorch and TensorFlow and maintaining several popular libraries such as Transformers and Tokenizers. It provides easy-to-use interfaces for utilizing state-of-the-art pre-trained NLP models, including BERT, GPT, RoBERTa, and many others to empower tasks such as text classification, sentiment analysis, and language generation.
+
+On top of that, Hugging Face offers educational resources to help individuals learn about NLP concepts and techniques. Their NLP class serves as a comprehensive guide to understanding various aspects of NLP, from fundamental concepts to advanced model architectures.
+
+## [Coursera -- Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms?utm_campaign=WebsiteCoursesGAIA&utm_medium=institutions&utm_source=deeplearning-ai#reviews)
+
+## [Prompt Engineering Courses](https://www.promptingguide.ai/course)
+
+
+

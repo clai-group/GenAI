@@ -1,0 +1,28 @@
+# Code Repositories {#sec-coderepo .unnumbered}
+
+\index{Code Repositories}
+
+## BioGPT
+
+Model card: <https://github.com/microsoft/BioGPT>\
+Paper: [BioGPT: generative pre-trained transformer for biomedical text generation and mining](https://watermark.silverchair.com/bbac409.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA04wggNKBgkqhkiG9w0BBwagggM7MIIDNwIBADCCAzAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMXEyl89WMCp-xeRWGAgEQgIIDATGdtK2P4GQnsIFXcFlRsh2TVlkf2ndVlWC5Rt2_GQBOt1XrjnvFvHzLjsRwk7xsfcB7RGvguyiyDPnwGCtnsm7GpM2VoH5cKr332zB1quE5KBf-fRGSqJrxSr4R-HMbGLnK1Xuf3CitYq-IJLzZTCuHQNh-KJx7d0DF9dY-l8EEIWBA9vAdwFuHy0aQVrKeQefoyDr3W8L84Bsd5BJ2UzDmMuIVQe7a6S_aQ4wwBYUf9EhcVXlUpMO5Ae-UCugufIVxGkgZqbCmJJuH82qTdsIVWtRLBGUB2cbsNHoJRCuS1qFS1gsr6teOGLfXsDdr83bE2NAtKFOilg8ddkd223wqnFoLLSX-R76YfRmab8xkUhJiuqAI27JQakOQGSzgPW_Pw0SvNC_eIjua4GOcVeK-2K_Od_8fyqYxTaNLPjq5wz11ewoc0p2TnDBbSbW1paRBuStwqXx4jgDhDm_X6-gpM942qDqy1X5oNj2fbu_qrovoyGwi--emWknBA3dzcFXXgxHsk_ejxMdHYa4hoxmzOdLTtWy7BSQNXxf6N4_dz7V9mBmRpBGZKFHHfF3okoXLqNiqWGO1KaPscbcD1UxtYgKCl836_CE6g_y3SHolAV9kH8pmqxyeYUa-KpRFRR8CqqGrOb4DHqlBolxwePX4vS8BgnaKEmW1Y845-WpHjc0SlGMKxArhklK6wbKMOiycW48N8Ll0K6Rps0_aC2huZ0Hs4MLWGCfcvGKPxjTAZ1vWWxfikjRfegnLcrVcYOLGcsbY7Ov9WcNyf1HTK8Dn-xTBL_mUjV1HJ9asrJbTh9T_R9cA3n3jjVnzWKkgH_mzQlv5NG7kuTKORmW4OveGfcJYprhdyok_n7jhKNTdKnFTkRRR-GzcotcBdcMU2HXWUdKV4bVCKydA20dUuM12_9HpI48KpH_h1rJofZXheF6sHGkz1A2orvivQWTBtKdIt30W7FeTkI4NRpHERBpyskWCmVU9wbsxdtTjgJkiXfSGeQxNywwQnmBns4Yp8Uk)
+
+## Clinical-T5-Large
+
+Model card: <https://huggingface.co/xyla/Clinical-T5-Large>\
+Paper: [Do We Still Need Clinical Language Models?](https://arxiv.org/pdf/2302.08091.pdf)
+
+## medAlpaca
+
+Models: <https://huggingface.co/medalpaca>\
+Paper: [MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data](https://arxiv.org/pdf/2304.08247.pdf)
+
+## Med-PaLM
+
+Model card: <https://github.com/kyegomez/Med-PaLM>\
+Paper: [Towards Generalist Biomedical AI](https://arxiv.org/pdf/2304.08247.pdf)
+
+## Me-LLaMA
+
+Model card: <https://github.com/BIDS-Xu-Lab/Me-LLaMA> (Not available to use now.)\
+Paper: [Me LLaMA: Foundation Large Language Models for Medical Applications](https://arxiv.org/ftp/arxiv/papers/2402/2402.12749.pdf)

@@ -1,0 +1,17 @@
+# Video {#sec-video .unnumbered}
+\index{Video}
+
+## Introduction to Generative AI
+
+The video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field. {{< video https://www.youtube.com/embed/G2fqAlgmoPo >}}
+
+## Generative AI in a Nutshell - how to survive and thrive in the age of AI
+
+This video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT's origins, model variations, mindset considerations, prompt engineering and autonomous agents. {{< video https://www.youtube.com/embed/2IK3DFHRFfw >}}
+
+
+## Introduction to large language models
+
+This video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field. {{< video https://www.youtube.com/embed/zizonToFXDs&t=7s >}}
+
+## [Lessons From Fine-Tuning Llama-2](https://www.youtube.com/watch?app=desktop&v=_OIq-9dKkbI)

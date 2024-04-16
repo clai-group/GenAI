@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Generative AI",
+    "section": "",
+    "text": "Welcome to our collection of resources dedicated to generative AI, where we provide introductions (clinical examples), training resources (online courses, papers) and code repository to help you understand and leverage the power of AI."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training Resources",
+    "section": "",
+    "text": "Founded by renowned AI expert Dr. Andrew Ng, this platform offers a diverse range of courses, tutorials, and practical projects to empower learners of all backgrounds to dive into the exciting world of AI.\nThe comprehensive curriculum covers from foundational concepts in machine learning to advanced techniques in deep neural networks and reinforcement learning.\nRelevant LLM Courses:\n\nFinetuning Large Language Models\nPrompt Engineering with Llama 2\nChatGPT Prompt Engineering for Developers\nLLMOps\n\n\n\n\nHugging Face is a open-source community dedicated to Natural Language Processing (NLP) technologies, fostering innovation through various NLP libraries and frameworks like PyTorch and TensorFlow and maintaining several popular libraries such as Transformers and Tokenizers. It provides easy-to-use interfaces for utilizing state-of-the-art pre-trained NLP models, including BERT, GPT, RoBERTa, and many others to empower tasks such as text classification, sentiment analysis, and language generation.\nOn top of that, Hugging Face offers educational resources to help individuals learn about NLP concepts and techniques. Their NLP class serves as a comprehensive guide to understanding various aspects of NLP, from fundamental concepts to advanced model architectures."
+  },
+  {
+    "objectID": "training.html#deeplearning.ai-httpswww.deeplearning.ai",
+    "href": "training.html#deeplearning.ai-httpswww.deeplearning.ai",
+    "title": "Training Resources",
+    "section": "",
+    "text": "Founded by renowned AI expert Dr. Andrew Ng, this platform offers a diverse range of courses, tutorials, and practical projects to empower learners of all backgrounds to dive into the exciting world of AI.\nHere, you can access designed to cater to both beginners and seasoned professionals. From foundational concepts in machine learning to advanced techniques in deep neural networks and reinforcement learning, our comprehensive curriculum covers it all."
+  },
+  {
+    "objectID": "training.html#deeplearning.ai",
+    "href": "training.html#deeplearning.ai",
+    "title": "Training Resources",
+    "section": "",
+    "text": "Founded by renowned AI expert Dr. Andrew Ng, this platform offers a diverse range of courses, tutorials, and practical projects to empower learners of all backgrounds to dive into the exciting world of AI.\nThe comprehensive curriculum covers from foundational concepts in machine learning to advanced techniques in deep neural networks and reinforcement learning.\nRelevant LLM Courses:\n\nFinetuning Large Language Models\nPrompt Engineering with Llama 2\nChatGPT Prompt Engineering for Developers\nLLMOps"
+  },
+  {
+    "objectID": "index.html#generative-ai-in-a-nutshell---how-to-survive-and-thrive-in-the-age-of-ai",
+    "href": "index.html#generative-ai-in-a-nutshell---how-to-survive-and-thrive-in-the-age-of-ai",
+    "title": "Generative AI",
+    "section": "Generative AI in a Nutshell - how to survive and thrive in the age of AI",
+    "text": "Generative AI in a Nutshell - how to survive and thrive in the age of AI\nThis video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT’s origins, model variations, mindset considerations, prompt engineering and autonomous agents."
+  },
+  {
+    "objectID": "index.html#introduction-to-large-language-models",
+    "href": "index.html#introduction-to-large-language-models",
+    "title": "Generative AI",
+    "section": "Introduction to large language models",
+    "text": "Introduction to large language models\nThis video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field. \n\n1 + 1 \n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#introduction-to-generative-ai",
+    "href": "index.html#introduction-to-generative-ai",
+    "title": "Generative AI",
+    "section": "Introduction to Generative AI",
+    "text": "Introduction to Generative AI\nThe video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field."
+  },
+  {
+    "objectID": "paper.html",
+    "href": "paper.html",
+    "title": "Paper",
+    "section": "",
+    "text": "Paper\n\nhttps://arxiv.org/pdf/2303.18223.pdf https://arxiv.org/pdf/2304.13712.pdf https://arxiv.org/pdf/2005.14165.pdf\nhttps://github.com/AI-in-Health/MedLLMsPracticalGuide?tab=readme-ov-file https://arxiv.org/pdf/2311.05112.pdf"
+  },
+  {
+    "objectID": "training.html#hugging-face-nlp-course",
+    "href": "training.html#hugging-face-nlp-course",
+    "title": "Training Resources",
+    "section": "",
+    "text": "Hugging Face is a open-source community dedicated to Natural Language Processing (NLP) technologies, fostering innovation through various NLP libraries and frameworks like PyTorch and TensorFlow and maintaining several popular libraries such as Transformers and Tokenizers. It provides easy-to-use interfaces for utilizing state-of-the-art pre-trained NLP models, including BERT, GPT, RoBERTa, and many others to empower tasks such as text classification, sentiment analysis, and language generation.\nOn top of that, Hugging Face offers educational resources to help individuals learn about NLP concepts and techniques. Their NLP class serves as a comprehensive guide to understanding various aspects of NLP, from fundamental concepts to advanced model architectures."
+  },
+  {
+    "objectID": "coderepo.html",
+    "href": "coderepo.html",
+    "title": "Code Repository",
+    "section": "",
+    "text": "Lamini is the LLM platform for developers to specialize LLMs on their own data and infrastructure: easier, faster, and better than any LLM for their use case. Their mission is to build customizable superintelligence that anyone can build and own.\n\n\n\nOllama is a tool that allows users to run large language models locally. It supports gemma, Llama 2, Code Llama, and other models."
+  },
+  {
+    "objectID": "coderepo.html#lamini",
+    "href": "coderepo.html#lamini",
+    "title": "Code Repository",
+    "section": "",
+    "text": "Lamini is the LLM platform for developers to specialize LLMs on their own data and infrastructure: easier, faster, and better than any LLM for their use case. Their mission is to build customizable superintelligence that anyone can build and own."
+  },
+  {
+    "objectID": "coderepo.html#ollama",
+    "href": "coderepo.html#ollama",
+    "title": "Code Repository",
+    "section": "",
+    "text": "Ollama is a tool that allows users to run large language models locally. It supports gemma, Llama 2, Code Llama, and other models."
+  }
+]

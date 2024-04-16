@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+engine: knitr
+
+book:
+  title: "Generative AI Hub"
+  author: "Jiazi Tian, Hossein Estiri"
+  date: "4/16/2024"
+  page-navigation: true
+  
+  chapters:
+    - index.qmd
+    - learning.qmd
+    - coderepo.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+    code-link: true
+
+    author-meta: "Jiazi Tian, Hossein Estiri"
+    callout-appearance: simple
+
+editor: visual

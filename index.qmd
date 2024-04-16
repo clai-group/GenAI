@@ -1,0 +1,42 @@
+# Overview {.unnumbered}
+
+Welcome to our collection of resources dedicated to generative AI, where we provide the overview, learning materials, such as online courses and example code repositories focused on clinically relevant large language models. These resources are designed to help you understand and effectively leverage the capabilities of generative AI.
+
+## Video List
+
+### Introduction to Generative AI
+
+The video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field. {{< video https://www.youtube.com/embed/G2fqAlgmoPo >}}
+
+### Generative AI in a Nutshell - how to survive and thrive in the age of AI
+
+This video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT's origins, model variations, mindset considerations, prompt engineering and autonomous agents. {{< video https://www.youtube.com/embed/2IK3DFHRFfw >}}
+
+### Introduction to large language models
+
+This video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field. {{< video https://www.youtube.com/embed/zizonToFXDs&t=7s >}}
+
+## Paper List
+
+### A Survey of Large Language Models
+
+PDF: <https://arxiv.org/pdf/2303.18223.pdf>\
+Github: <https://github.com/RUCAIBox/LLMSurvey>
+
+### Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond
+
+PDF: <https://arxiv.org/pdf/2304.13712.pdf>\
+Github: <https://github.com/Mooler0410/LLMsPracticalGuide>
+
+### Language Models are Few-Shot Learners
+PDF: <https://arxiv.org/pdf/2005.14165.pdf>
+
+### A Survey of Large Language Models in Medicine: Progress, Application, and Challenge
+
+PDF: <https://arxiv.org/pdf/2311.05112.pdf>\
+Github: <https://github.com/AI-in-Health/MedLLMsPracticalGuide>
+
+### Retrieval-Augmented Generation for Large Language Models: A Survey
+
+PDF: <https://arxiv.org/pdf/2312.10997.pdf>\
+Github: <https://github.com/Tongji-KGLLM/RAG-Survey>

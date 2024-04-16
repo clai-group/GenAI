@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "coderepo.html#lamini",
+    "href": "coderepo.html#lamini",
+    "title": "Code Repository",
+    "section": "Lamini",
+    "text": "Lamini\nLamini is the LLM platform for developers to specialize LLMs on their own data and infrastructure: easier, faster, and better than any LLM for their use case. Their mission is to build customizable superintelligence that anyone can build and own."
+  },
+  {
+    "objectID": "coderepo.html#ollama",
+    "href": "coderepo.html#ollama",
+    "title": "Code Repository",
+    "section": "Ollama",
+    "text": "Ollama\nOllama is a tool that allows users to run large language models locally. It supports gemma, Llama 2, Code Llama, and other models."
+  },
+  {
+    "objectID": "training.html#deeplearning.ai",
+    "href": "training.html#deeplearning.ai",
+    "title": "Training Resources",
+    "section": "DeepLearning.AI",
+    "text": "DeepLearning.AI\nFounded by renowned AI expert Dr. Andrew Ng, this platform offers a diverse range of courses, tutorials, and practical projects to empower learners of all backgrounds to dive into the exciting world of AI.\nThe comprehensive curriculum covers from foundational concepts in machine learning to advanced techniques in deep neural networks and reinforcement learning.\nRelevant LLM Courses:\n\nFinetuning Large Language Models\nPrompt Engineering with Llama 2\nChatGPT Prompt Engineering for Developers\nLLMOps"
+  },
+  {
+    "objectID": "training.html#hugging-face-nlp-course",
+    "href": "training.html#hugging-face-nlp-course",
+    "title": "Training Resources",
+    "section": "Hugging Face – NLP course",
+    "text": "Hugging Face – NLP course\nHugging Face is a open-source community dedicated to Natural Language Processing (NLP) technologies, fostering innovation through various NLP libraries and frameworks like PyTorch and TensorFlow and maintaining several popular libraries such as Transformers and Tokenizers. It provides easy-to-use interfaces for utilizing state-of-the-art pre-trained NLP models, including BERT, GPT, RoBERTa, and many others to empower tasks such as text classification, sentiment analysis, and language generation.\nOn top of that, Hugging Face offers educational resources to help individuals learn about NLP concepts and techniques. Their NLP class serves as a comprehensive guide to understanding various aspects of NLP, from fundamental concepts to advanced model architectures."
+  },
+  {
+    "objectID": "training.html#coursera-generative-ai-with-large-language-models",
+    "href": "training.html#coursera-generative-ai-with-large-language-models",
+    "title": "Training Resources",
+    "section": "Coursera – Generative AI with Large Language Models",
+    "text": "Coursera – Generative AI with Large Language Models"
+  },
+  {
+    "objectID": "index.html#introduction-to-generative-ai",
+    "href": "index.html#introduction-to-generative-ai",
+    "title": "Generative AI Hub",
+    "section": "Introduction to Generative AI",
+    "text": "Introduction to Generative AI\nThe video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field."
+  },
+  {
+    "objectID": "index.html#generative-ai-in-a-nutshell---how-to-survive-and-thrive-in-the-age-of-ai",
+    "href": "index.html#generative-ai-in-a-nutshell---how-to-survive-and-thrive-in-the-age-of-ai",
+    "title": "Generative AI Hub",
+    "section": "Generative AI in a Nutshell - how to survive and thrive in the age of AI",
+    "text": "Generative AI in a Nutshell - how to survive and thrive in the age of AI\nThis video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT’s origins, model variations, mindset considerations, prompt engineering and autonomous agents."
+  },
+  {
+    "objectID": "index.html#introduction-to-large-language-models",
+    "href": "index.html#introduction-to-large-language-models",
+    "title": "Generative AI Hub",
+    "section": "Introduction to large language models",
+    "text": "Introduction to large language models\nThis video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Generative AI Hub",
+    "section": "",
+    "text": "Overview\nWelcome to our collection of resources dedicated to generative AI, where we provide the overview, learning materials, such as online courses and example code repositories focused on clinically relevant large language models. These resources are designed to help you understand and effectively leverage the capabilities of generative AI."
+  },
+  {
+    "objectID": "learning.html#deeplearning.ai",
+    "href": "learning.html#deeplearning.ai",
+    "title": "Learning Materials",
+    "section": "DeepLearning.AI",
+    "text": "DeepLearning.AI\nFounded by renowned AI expert Dr. Andrew Ng, this platform offers a diverse range of courses, tutorials, and practical projects to empower learners of all backgrounds to dive into the exciting world of AI.\nThe comprehensive curriculum covers from foundational concepts in machine learning to advanced techniques in deep neural networks and reinforcement learning.\n\nRelevant LLM Courses:\n\nFinetuning Large Language Models\nPrompt Engineering with Llama 2\nChatGPT Prompt Engineering for Developers\nLLMOps"
+  },
+  {
+    "objectID": "learning.html#hugging-face-nlp-course",
+    "href": "learning.html#hugging-face-nlp-course",
+    "title": "Learning Materials",
+    "section": "Hugging Face – NLP course",
+    "text": "Hugging Face – NLP course\nHugging Face is a open-source community dedicated to Natural Language Processing (NLP) technologies, fostering innovation through various NLP libraries and frameworks like PyTorch and TensorFlow and maintaining several popular libraries such as Transformers and Tokenizers. It provides easy-to-use interfaces for utilizing state-of-the-art pre-trained NLP models, including BERT, GPT, RoBERTa, and many others to empower tasks such as text classification, sentiment analysis, and language generation.\nOn top of that, Hugging Face offers educational resources to help individuals learn about NLP concepts and techniques. Their NLP class serves as a comprehensive guide to understanding various aspects of NLP, from fundamental concepts to advanced model architectures."
+  },
+  {
+    "objectID": "learning.html#coursera-generative-ai-with-large-language-models",
+    "href": "learning.html#coursera-generative-ai-with-large-language-models",
+    "title": "Learning Materials",
+    "section": "Coursera – Generative AI with Large Language Models",
+    "text": "Coursera – Generative AI with Large Language Models"
+  },
+  {
+    "objectID": "learning.html#prompt-engineering-courses",
+    "href": "learning.html#prompt-engineering-courses",
+    "title": "Learning Materials",
+    "section": "Prompt Engineering Courses",
+    "text": "Prompt Engineering Courses"
+  },
+  {
+    "objectID": "learning.html#lessons-from-fine-tuning-llama-2",
+    "href": "learning.html#lessons-from-fine-tuning-llama-2",
+    "title": "Learning Resources",
+    "section": "Lessons From Fine-Tuning Llama-2",
+    "text": "Lessons From Fine-Tuning Llama-2"
+  },
+  {
+    "objectID": "video.html#introduction-to-generative-ai",
+    "href": "video.html#introduction-to-generative-ai",
+    "title": "Video",
+    "section": "Introduction to Generative AI",
+    "text": "Introduction to Generative AI\nThe video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field."
+  },
+  {
+    "objectID": "video.html#generative-ai-in-a-nutshell---how-to-survive-and-thrive-in-the-age-of-ai",
+    "href": "video.html#generative-ai-in-a-nutshell---how-to-survive-and-thrive-in-the-age-of-ai",
+    "title": "Video",
+    "section": "Generative AI in a Nutshell - how to survive and thrive in the age of AI",
+    "text": "Generative AI in a Nutshell - how to survive and thrive in the age of AI\nThis video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT’s origins, model variations, mindset considerations, prompt engineering and autonomous agents."
+  },
+  {
+    "objectID": "video.html#introduction-to-large-language-models",
+    "href": "video.html#introduction-to-large-language-models",
+    "title": "Video",
+    "section": "Introduction to large language models",
+    "text": "Introduction to large language models\nThis video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field."
+  },
+  {
+    "objectID": "paper.html",
+    "href": "paper.html",
+    "title": "Paper",
+    "section": "",
+    "text": "A Survey of Large Language Models\nGithub: https://github.com/RUCAIBox/LLMSurvey\n\n\nHarnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond\nGithub: https://github.com/Mooler0410/LLMsPracticalGuide\n\n\nLanguage Models are Few-Shot Learners\n\n\nA Survey of Large Language Models in Medicine: Progress, Application, and Challenge\nGithub: https://github.com/AI-in-Health/MedLLMsPracticalGuide\nhttps://arxiv.org/pdf/2311.05112.pdf"
+  },
+  {
+    "objectID": "index.html#video",
+    "href": "index.html#video",
+    "title": "Generative AI Hub",
+    "section": "Video",
+    "text": "Video\n\nIntroduction to Generative AI\nThe video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field. \n\n\nGenerative AI in a Nutshell - how to survive and thrive in the age of AI\nThis video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT’s origins, model variations, mindset considerations, prompt engineering and autonomous agents. \n\n\nIntroduction to large language models\nThis video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field."
+  },
+  {
+    "objectID": "index.html#paper",
+    "href": "index.html#paper",
+    "title": "Generative AI Hub",
+    "section": "Paper",
+    "text": "Paper\n\nA Survey of Large Language Models\nPDF: https://arxiv.org/pdf/2303.18223.pdf\nGithub: https://github.com/RUCAIBox/LLMSurvey\n\n\nHarnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond\nPDF: https://arxiv.org/pdf/2304.13712.pdf\nGithub: https://github.com/Mooler0410/LLMsPracticalGuide\n\n\nLanguage Models are Few-Shot Learners\nPDF: https://arxiv.org/pdf/2005.14165.pdf\n\n\nA Survey of Large Language Models in Medicine: Progress, Application, and Challenge\nPDF: https://arxiv.org/pdf/2311.05112.pdf\nGithub: https://github.com/AI-in-Health/MedLLMsPracticalGuide"
+  },
+  {
+    "objectID": "index.html#video-list",
+    "href": "index.html#video-list",
+    "title": "Generative AI Hub",
+    "section": "Video List",
+    "text": "Video List\n\nIntroduction to Generative AI\nThe video delivers a thorough introduction to Generative AI, covering its foundational principles, conventional machine learning models, generative AI models, and promising applications. It addresses challenges such as hallucinations and delves into various types of generative AI models, offering a comprehensive overview of this dynamic field. \n\n\nGenerative AI in a Nutshell - how to survive and thrive in the age of AI\nThis video explains the fundamentals of generative AI, its mechanics, applications, risks, and limitations. It also includes the topic of AI product development, ChatGPT’s origins, model variations, mindset considerations, prompt engineering and autonomous agents. \n\n\nIntroduction to large language models\nThis video introduces Large Language Models (LLMs) as versatile models that intersect with Generative AI, pre-trained and fine-tuned for specific tasks. They offer numerous advantages, requiring minimal data for field training, and benefitting from prompt design and engineering. Tools like Generative AI Studio, Palm API, and Vertex AI facilitate model customization, testing, and deployment. The video also points to the need to refine and tune specific large language models for applications in the medical field."
+  },
+  {
+    "objectID": "index.html#paper-list",
+    "href": "index.html#paper-list",
+    "title": "Generative AI Hub",
+    "section": "Paper List",
+    "text": "Paper List\n\nA Survey of Large Language Models\nPDF: https://arxiv.org/pdf/2303.18223.pdf\nGithub: https://github.com/RUCAIBox/LLMSurvey\n\n\nHarnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond\nPDF: https://arxiv.org/pdf/2304.13712.pdf\nGithub: https://github.com/Mooler0410/LLMsPracticalGuide\n\n\nLanguage Models are Few-Shot Learners\nPDF: https://arxiv.org/pdf/2005.14165.pdf\n\n\nA Survey of Large Language Models in Medicine: Progress, Application, and Challenge\nPDF: https://arxiv.org/pdf/2311.05112.pdf\nGithub: https://github.com/AI-in-Health/MedLLMsPracticalGuide\n\n\nRetrieval-Augmented Generation for Large Language Models: A Survey\nPDF: https://arxiv.org/pdf/2312.10997.pdf\nGithub: https://github.com/Tongji-KGLLM/RAG-Survey"
+  },
+  {
+    "objectID": "coderepo.html#biogpt",
+    "href": "coderepo.html#biogpt",
+    "title": "Code Repositories",
+    "section": "BioGPT",
+    "text": "BioGPT\nModel card: https://github.com/microsoft/BioGPT\nPaper: BioGPT: generative pre-trained transformer for biomedical text generation and mining"
+  },
+  {
+    "objectID": "coderepo.html#clinical-t5-large",
+    "href": "coderepo.html#clinical-t5-large",
+    "title": "Code Repositories",
+    "section": "Clinical-T5-Large",
+    "text": "Clinical-T5-Large\nModel card: https://huggingface.co/xyla/Clinical-T5-Large\nPaper: Do We Still Need Clinical Language Models?"
+  },
+  {
+    "objectID": "coderepo.html#medalpaca",
+    "href": "coderepo.html#medalpaca",
+    "title": "Code Repositories",
+    "section": "medAlpaca",
+    "text": "medAlpaca\nModels: https://huggingface.co/medalpaca\nPaper: MedAlpaca–An Open-Source Collection of Medical Conversational AI Models and Training Data"
+  },
+  {
+    "objectID": "coderepo.html#med-palm",
+    "href": "coderepo.html#med-palm",
+    "title": "Code Repositories",
+    "section": "Med-PaLM",
+    "text": "Med-PaLM\nModel card: https://github.com/kyegomez/Med-PaLM\nPaper: Towards Generalist Biomedical AI"
+  },
+  {
+    "objectID": "coderepo.html#me-llama",
+    "href": "coderepo.html#me-llama",
+    "title": "Code Repositories",
+    "section": "Me-LLaMA",
+    "text": "Me-LLaMA\nModel card: https://github.com/BIDS-Xu-Lab/Me-LLaMA (Not available to use now.)\nPaper: Me LLaMA: Foundation Large Language Models for Medical Applications"
+  }
+]
