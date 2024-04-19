@@ -2,6 +2,10 @@
 
 \index{Code Repositories}
 
+## Llama3
+
+Model card: <https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md>
+
 ## BioGPT
 
 Model card: <https://github.com/microsoft/BioGPT>\
@@ -26,3 +30,10 @@ Paper: [Towards Generalist Biomedical AI](https://arxiv.org/pdf/2304.08247.pdf)
 
 Model card: <https://github.com/BIDS-Xu-Lab/Me-LLaMA> (Not available to use now.)\
 Paper: [Me LLaMA: Foundation Large Language Models for Medical Applications](https://arxiv.org/ftp/arxiv/papers/2402/2402.12749.pdf)
+
+## [Mistral AI](https://huggingface.co/mistralai)
+
+This company published 7 open-source LLM models, which are known for being efficient, requiring fewer parameters to achieve similar results to other models.
+
+**Lastest model:**\
+Mixtral 8x22B: <https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1>

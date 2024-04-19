@@ -12,9 +12,13 @@ The comprehensive curriculum covers from foundational concepts in machine learni
 
 1.  [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 2.  [Prompt Engineering with Llama 2](https://learn.deeplearning.ai/courses/prompt-engineering-with-llama-2/lesson/1/introduction)
-3. [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
-4. [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)
+3.  [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
+4.  [LangChain Chat with Your Data](https://learn.deeplearning.ai/courses/langchain-chat-with-your-data)
+5.  [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)
 
+#### AI News and Insights:
+
+<https://www.deeplearning.ai/the-batch/>
 
 ## [Hugging Face -- NLP course](https://huggingface.co/learn/nlp-course/chapter1/1)
 
@@ -25,6 +29,3 @@ On top of that, Hugging Face offers educational resources to help individuals le
 ## [Coursera -- Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms?utm_campaign=WebsiteCoursesGAIA&utm_medium=institutions&utm_source=deeplearning-ai#reviews)
 
 ## [Prompt Engineering Courses](https://www.promptingguide.ai/course)
-
-
-

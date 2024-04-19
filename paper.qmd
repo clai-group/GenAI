@@ -2,20 +2,26 @@
 
 \index{Paper}
 
-### [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+### A Survey of Large Language Models
 
-Github: https://github.com/RUCAIBox/LLMSurvey
+PDF: <https://arxiv.org/pdf/2303.18223.pdf>\
+Github: <https://github.com/RUCAIBox/LLMSurvey>
 
-### [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
+### Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond
 
-Github: https://github.com/Mooler0410/LLMsPracticalGuide
+PDF: <https://arxiv.org/pdf/2304.13712.pdf>\
+Github: <https://github.com/Mooler0410/LLMsPracticalGuide>
 
-### [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+### Language Models are Few-Shot Learners
 
+PDF: <https://arxiv.org/pdf/2005.14165.pdf>
 
-### [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/pdf/2311.05112.pdf)
+### A Survey of Large Language Models in Medicine: Progress, Application, and Challenge
 
-Github: https://github.com/AI-in-Health/MedLLMsPracticalGuide
+PDF: <https://arxiv.org/pdf/2311.05112.pdf>\
+Github: <https://github.com/AI-in-Health/MedLLMsPracticalGuide>
 
+### Retrieval-Augmented Generation for Large Language Models: A Survey
 
-https://arxiv.org/pdf/2311.05112.pdf
+PDF: <https://arxiv.org/pdf/2312.10997.pdf>\
+Github: <https://github.com/Tongji-KGLLM/RAG-Survey>
